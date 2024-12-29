@@ -8,4 +8,4 @@ As part of a technical assessment for a Senior QA Engineer role, I was tasked wi
 
 This assessment highlighted my ability to quickly adapt to requirements, build effective automation solutions, and deliver high-quality results under time constraints. 
 
-Test Result : [Test_Report.jpg](https://github.com/swamikamal/Indee.tv-Assessment-/blob/master/Test_Report.jpg)
+![Test_Report](https://github.com/swamikamal/Indee.tv-Assessment-/blob/master/Test_Report.jpg)
